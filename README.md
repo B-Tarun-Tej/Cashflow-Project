@@ -28,7 +28,7 @@ The Cashflow project is a comprehensive solution for tracking and managing expen
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python, Django Framework
-- Database: MySQLite
+- Database: SQLite database with Django
 - Version Control: GitHub
 
 ### Prerequisites
